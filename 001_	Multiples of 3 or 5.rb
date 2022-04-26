@@ -14,5 +14,6 @@ function mo3o5(num) {
   }
   console.log(multiples.reduce((a, b)=> a+b, 0))
 }
+mo3o5(10);
 # call mo3o5 with a number to get the list of all the  numbers below the entered number that are multiples of 3 or 5.
 # ex: mo3o5(10)

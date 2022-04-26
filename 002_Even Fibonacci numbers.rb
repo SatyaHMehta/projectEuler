@@ -16,6 +16,6 @@ function fibonacciSum (num) {
         console.log(sum.reduce((a,b)=>a+b, 0))
     }
 }
-fibonacciSum(10)
+fibonacciSum(10);
 # call fibonacciSum with the number of fibonacci numbers whos values do not exceed four million, to find the sum of the even-valued numbers.
 # ex: fibonacciSum(10)
